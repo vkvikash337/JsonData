@@ -1,4 +1,8 @@
 {
+  
+"title":"example.com",
+"link":"http://www.example.com/",
+"description":"Awesome news about junk",
   "posts": [
     {
       "id": 1,
