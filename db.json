@@ -3,7 +3,7 @@
 "title":"example.com",
 "link":"http://www.example.com/",
 "description":"Awesome news about junk",
-  "posts": [
+  "items": [
     {
       "id": 1,
       "title": "Post 1"
