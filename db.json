@@ -1,31 +1,49 @@
 {
-  "posts": [
+"title":"example.com",
+"link":"http://www.example.com/",
+"description":"Awesome news about junk",
+"items":[
     {
-      "id": 1,
-      "title": "Post 1"
+        "title":"An article",
+        "link":"http://www.example.com/an-article",
+        "descrition":"Some sample text here",
+        "pubDate":"2008-10-27 11:06 EST",
+        "author":"example author",
     },
     {
-      "id": 2,
-      "title": "Post 2"
+        "title":"Second",
+        "link":"http://www.example.com/Seond",
+        "descrition":"Some sample text here",
+        "pubDate":"2008-10-25 23:20 EST",
+        "author":"author mcauthor",
     },
     {
-      "id": 3,
-      "title": "Post 3"
+        "title":"third article",
+        "link":"http://www.example.com/third-article",
+        "descrition":"Some sample text here",
+        "pubDate":"2008-10-25 23:18 EST",
+        "author":"some other author",
+    ,
+      {
+        "title":"fourth article",
+        "link":"http://www.example.com/fourth-article",
+        "descrition":"Some sample text here",
+        "pubDate":"2008-10-25 23:18 EST",
+        "author":"some other author",
+    },
+  {
+        "title":"fifth article",
+        "link":"http://www.example.com/fifth-article",
+        "descrition":"Some sample text here",
+        "pubDate":"2008-10-25 23:18 EST",
+        "author":"some other author",
+    },
+  {
+        "title":"sixth article",
+        "link":"http://www.example.com/sixth-article",
+        "descrition":"Some sample text here",
+        "pubDate":"2008-10-25 23:18 EST",
+        "author":"some other author",
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
+} 
