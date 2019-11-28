@@ -23,22 +23,22 @@
         "descrition":"Some sample text here",
         "pubDate":"2008-10-25 23:18 EST",
         "author":"some other author",
-    ,
-      {
+    },
+    {
         "title":"fourth article",
         "link":"http://www.example.com/fourth-article",
         "descrition":"Some sample text here",
         "pubDate":"2008-10-25 23:18 EST",
         "author":"some other author",
     },
-  {
+    {
         "title":"fifth article",
         "link":"http://www.example.com/fifth-article",
         "descrition":"Some sample text here",
         "pubDate":"2008-10-25 23:18 EST",
         "author":"some other author",
     },
-  {
+    {
         "title":"sixth article",
         "link":"http://www.example.com/sixth-article",
         "descrition":"Some sample text here",
